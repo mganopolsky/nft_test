@@ -17,5 +17,3 @@ npm install --include=dev prettier
 npm install --include=dev prettier-plugin-solidity
 npm install --include=dev solhint
 npm install --include=dev solidity-coverage dotenv
-
-REMOVE PRIVATE KEY From hardhat.js!!!
